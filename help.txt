@@ -1,0 +1,3 @@
+pnpm dlx prisma init
+pnpm dlx prisma db push  // update tables in
+
